@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @english4techpros
+- 👋 Hi, I’m Eric Anderson @english4techpros. Located in Lima, Peru
 - 👀 I’m interested in learning tools to do low-level editing of JPG or PNG image files.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: english4techpros@gmail.com
 
 <!---
 english4techpros/english4techpros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
